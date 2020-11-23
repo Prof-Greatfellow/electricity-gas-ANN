@@ -1,0 +1,4 @@
+comp_no,inlet_node,outlet_node,min_ratio,max_ratio,max_flow,ZC,BC,alpha,beta,gamma
+1,5,6,1.2,1.8,8000,0.234,227,0,0.003,0
+2,13,14,1.2,1.8,5000,0.233,226,0,0.002,0
+3,17,18,1.2,1.8,8000,0.235,228,0,0.003,0
